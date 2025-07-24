@@ -24,7 +24,7 @@
 
 #pragma endregion
 
-#pragma region Type Defintions
+#pragma region Type Definitions
 
 typedef struct _UNICODE_STRING {
     USHORT Length;
